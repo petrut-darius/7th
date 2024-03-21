@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    text-align: center;
+}
+
+form{
+    width: fit-content;
+    display: inline-block;
+    border-style: solid;
+    padding: 0.5rem;
+    padding-bottom: 3rem;
+}
